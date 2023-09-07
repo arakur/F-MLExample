@@ -1,6 +1,6 @@
 # FSharpMLExample
 
-F# (w/ Polyglot Notebook) による機械学習のデモです．
+F# (w/ Jupyter Notebook) による機械学習のデモです．
 
 ## Usage
 
