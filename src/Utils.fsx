@@ -5,8 +5,6 @@ open Deedle
 
 // Utility functions.
 
-let boolToFloat (value: bool) = if value then 1. else 0.
-
 module FrameExt =
     let modifyCol (column: 'C) (f: 'T0 -> 'T1) (frame: Frame<'R, 'C>) =
         frame
